@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSUtQpMCfSkV1oDGnt+xKRQ596xLRCUoqggDoRTUx0ra7E4vnnYbMipqLfwnDLaZSk+/Gp1F07nJXtcDo7bHHw==",
+  "success": true,
+  "projectFilePath": "/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/tictactoe.csproj",
+  "expectedPackageFiles": [
+    "/home/cris/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/cris/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/cris/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

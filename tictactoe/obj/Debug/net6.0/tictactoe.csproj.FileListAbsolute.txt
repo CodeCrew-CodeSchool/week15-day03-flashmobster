@@ -1,0 +1,15 @@
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.csproj.AssemblyReference.cache
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfoInputs.cache
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfo.cs
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.csproj.CoreCompileInputs.cache
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/bin/Debug/net6.0/tictactoe
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/bin/Debug/net6.0/tictactoe.deps.json
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/bin/Debug/net6.0/tictactoe.runtimeconfig.json
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/bin/Debug/net6.0/tictactoe.dll
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/bin/Debug/net6.0/tictactoe.pdb
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.dll
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/refint/tictactoe.dll
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.pdb
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/tictactoe.genruntimeconfig.cache
+/home/cris/Desktop/dev/week15-day03-flashmobster/tictactoe/obj/Debug/net6.0/ref/tictactoe.dll
